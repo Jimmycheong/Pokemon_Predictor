@@ -26,6 +26,9 @@ TODO: Finish writing this section
 
 `python predictor.py`
 
+## Future steps
+- Add type as feature using label encoding and one hot encoding
+
 
 ## References: 
 Original Dataset: 
