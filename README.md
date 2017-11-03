@@ -28,6 +28,7 @@ TODO: Finish writing this section
 
 ## Future steps
 - Add type as feature using label encoding and one hot encoding
+- Use different machine learning classifiers (K-nearest Neighbour)
 
 
 ## References: 
