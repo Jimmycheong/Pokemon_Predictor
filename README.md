@@ -13,6 +13,8 @@ To generate a random dataset with "Pokemon of Interest", run the following commm
 
 `python data_generator.py`
 
+This generates a file called generated_data.csv. To select individual pokemon to generate data, tweak `poi` variable by either specifying a range or a list of Pokemon names.
+
 
 ## How to train a model 
 
