@@ -28,9 +28,9 @@ Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation
 27,Sandshrew,Ground,,300,50,75,85,20,30,40,1,FALSE,Yellow,TRUE,0.5,Field,,FALSE,0.61,12,255,bipedal_tailed
 28,Sandslash,Ground,,450,75,100,110,45,55,65,1,FALSE,Yellow,TRUE,0.5,Field,,FALSE,0.99,29.5,90,bipedal_tailed
 29,Nidorana,Poison,,275,55,47,52,40,40,41,1,FALSE,Blue,TRUE,0,Monster,Field,FALSE,0.41,7,235,quadruped
-30,Nidorina f,Poison,,365,70,62,67,55,55,56,1,FALSE,Blue,TRUE,0,Undiscovered,,FALSE,0.79,20,120,quadruped
+30,Nidorina_f,Poison,,365,70,62,67,55,55,56,1,FALSE,Blue,TRUE,0,Undiscovered,,FALSE,0.79,20,120,quadruped
 31,Nidoqueen,Poison,Ground,505,90,92,87,75,85,76,1,FALSE,Blue,TRUE,0,Undiscovered,,FALSE,1.3,60,45,bipedal_tailed
-32,Nidorana b,Poison,,273,46,57,40,40,40,50,1,FALSE,Purple,TRUE,1,Monster,Field,FALSE,0.51,9,235,quadruped
+32,Nidorana_b,Poison,,273,46,57,40,40,40,50,1,FALSE,Purple,TRUE,1,Monster,Field,FALSE,0.51,9,235,quadruped
 33,Nidorino,Poison,,365,61,72,57,55,55,65,1,FALSE,Purple,TRUE,1,Monster,Field,FALSE,0.89,19.5,120,quadruped
 34,Nidoking,Poison,Ground,505,81,102,77,85,75,85,1,FALSE,Purple,TRUE,1,Monster,Field,FALSE,1.4,62,45,bipedal_tailed
 35,Clefairy,Fairy,,323,70,45,48,60,65,35,1,FALSE,Pink,TRUE,0.25,Fairy,,FALSE,0.61,7.5,150,bipedal_tailed

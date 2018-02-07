@@ -8,6 +8,8 @@ __pycache__/
 
 # pickle
 *.pkl
+*.ipynb
+*generated_dataset.csv
 
 # Distribution / packaging
 .Python
