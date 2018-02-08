@@ -11,6 +11,8 @@ __pycache__/
 *.ipynb
 *generated_dataset.csv
 
+*models/
+
 # Distribution / packaging
 .Python
 env/
